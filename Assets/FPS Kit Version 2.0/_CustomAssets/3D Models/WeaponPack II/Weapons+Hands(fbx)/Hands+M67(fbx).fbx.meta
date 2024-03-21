@@ -1,0 +1,207 @@
+fileFormatVersion: 2
+guid: 95b1d1d590390924bb67ff7560d45867
+ModelImporter:
+  serializedVersion: 22
+  fileIDToRecycleName:
+    100000: Arm_L
+    100002: Bone_R_008
+    100004: Bone_R_010
+    100006: Armature
+    100008: Bone_R_002
+    100010: Weapon
+    100012: Bone_L_016
+    100014: Bone_L_007
+    100016: Bone_R_007
+    100018: Bone_L_020
+    100020: Arm_IK_L
+    100022: Arm_R
+    100024: Bone_L_015
+    100026: Bone_L_010
+    100028: Bone_L_018
+    100030: Bone_L_014
+    100032: Bone_L_013
+    100034: Bone_R_014
+    100036: Bone_R_013
+    100038: Hand_R
+    100040: Bone_R_006
+    100042: Bone_L_006
+    100044: Hand_IK_R
+    100046: //RootNode
+    100048: Arm_IK_R
+    100050: Bone_R_009
+    100052: Bone_R_011
+    100054: Bone_R_021
+    100056: Ring
+    100058: Hand_IK_L
+    100060: Bone_R_015
+    100062: Bone_R_017
+    100064: Bone_R_018
+    100066: Bone_R_019
+    100068: Hand_L
+    100070: Bone_R_003
+    100072: Bone_R_020
+    100074: Bone_L_002
+    100076: Bone_L_008
+    100078: Bone_L_009
+    100080: Bone_L_012
+    100082: Bone_R_016
+    100084: Bone_L_017
+    100086: Bone_L_021
+    100088: Bone_R_022
+    100090: Sphere
+    100092: Bone_L_022
+    100094: Bone_L_019
+    100096: Bone_R_012
+    100098: Bone_L_011
+    100100: Bone_L_003
+    100102: Bone_R_005
+    100104: Bone_R_004
+    100106: Body-mesh
+    100108: Bone_L_004
+    100110: Bone_L_005
+    400000: Arm_L
+    400002: Bone_R_008
+    400004: Bone_R_010
+    400006: Armature
+    400008: Bone_R_002
+    400010: Weapon
+    400012: Bone_L_016
+    400014: Bone_L_007
+    400016: Bone_R_007
+    400018: Bone_L_020
+    400020: Arm_IK_L
+    400022: Arm_R
+    400024: Bone_L_015
+    400026: Bone_L_010
+    400028: Bone_L_018
+    400030: Bone_L_014
+    400032: Bone_L_013
+    400034: Bone_R_014
+    400036: Bone_R_013
+    400038: Hand_R
+    400040: Bone_R_006
+    400042: Bone_L_006
+    400044: Hand_IK_R
+    400046: //RootNode
+    400048: Arm_IK_R
+    400050: Bone_R_009
+    400052: Bone_R_011
+    400054: Bone_R_021
+    400056: Ring
+    400058: Hand_IK_L
+    400060: Bone_R_015
+    400062: Bone_R_017
+    400064: Bone_R_018
+    400066: Bone_R_019
+    400068: Hand_L
+    400070: Bone_R_003
+    400072: Bone_R_020
+    400074: Bone_L_002
+    400076: Bone_L_008
+    400078: Bone_L_009
+    400080: Bone_L_012
+    400082: Bone_R_016
+    400084: Bone_L_017
+    400086: Bone_L_021
+    400088: Bone_R_022
+    400090: Sphere
+    400092: Bone_L_022
+    400094: Bone_L_019
+    400096: Bone_R_012
+    400098: Bone_L_011
+    400100: Bone_L_003
+    400102: Bone_R_005
+    400104: Bone_R_004
+    400106: Body-mesh
+    400108: Bone_L_004
+    400110: Bone_L_005
+    4300000: Body-mesh
+    4300002: Sphere
+    7400000: Idle
+    7400002: TakeIn
+    7400004: TakeOut
+    7400006: Throw
+    7400008: Default Take
+    11100000: //RootNode
+    13700000: Sphere
+    13700002: Body-mesh
+  externalObjects: {}
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+    materialLocation: 0
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    animationCompression: 0
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importVisibility: 0
+    importBlendShapes: 1
+    importCameras: 0
+    importLights: 0
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    preserveHierarchy: 0
+    indexFormat: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 0
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 1
+    tangentImportMode: 4
+    normalCalculationMode: 0
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    rootMotionBoneRotation: {x: 0, y: 0, z: 0, w: 1}
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 0
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 1
+  humanoidOversampling: 1
+  additionalBone: 1
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
